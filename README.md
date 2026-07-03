@@ -120,4 +120,4 @@ api.  admin.  internal.  dev.  staging.  auth.  pay.  money.  chat.
 
 ## License
 
-MIT (or update this to whatever you prefer before publishing).
+MIT — see [LICENSE](LICENSE)
