@@ -38,8 +38,8 @@ The script checks for all dependencies on startup and tells you what's missing b
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/subrecon.git
-cd subrecon
+git clone https://github.com/subrat243/Subrecon.git
+cd Subrecon
 chmod +x subrecon.sh
 ```
 
